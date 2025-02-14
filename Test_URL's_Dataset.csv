@@ -1,0 +1,16 @@
+URL
+http://example.com
+https://secure-login.bank.com
+http://free-money.click
+https://www.google.com
+http://account-verify.com
+https://www.github.com
+http://update-password.net
+https://openai.com
+http://payment-secure.info
+https://docs.python.org
+http://this-is-a-really-long-url-example-that-should-be-classified-as-suspicious-because-it-exceeds-the-threshold.com
+https://another-very-long-url-example-for-testing-purpose-to-check-threshold-and-keyword-detection.com
+http://example.com
+https://secure-bank.com/login
+https://mydomain.com/path
